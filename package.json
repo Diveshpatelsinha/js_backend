@@ -1,0 +1,20 @@
+{
+  "name": "firstbackend",
+  "version": "1.0.0",
+  "description": "learning backend first time",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "backend",
+    "node",
+    "js"
+  ],
+  "author": "Divesh Patel",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
